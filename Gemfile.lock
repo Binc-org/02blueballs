@@ -126,7 +126,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 3.9.1)
   jekyll-feed (~> 0.12)
   lone-wolf-theme
   tzinfo (~> 1.2)
