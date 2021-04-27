@@ -120,6 +120,9 @@ GEM
     jekyll-sitemap (1.0.0)
     
     jekyll-swiss (0.4.0)
+    
+    jekyll-theme-minima (2.0.0)
+    
     jekyll-theme-architect (0.0.3)
      
     jekyll-theme-cayman (0.0.3)
