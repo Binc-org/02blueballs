@@ -204,8 +204,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.3.0)
-  jekyll-theme-time-machine
+  # jekyll (~> 3.3.0)
+  # jekyll-theme-time-machine
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
