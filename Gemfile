@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 # the following:
 # gem "github-pages"
-gem "github-pages", group: :jekyll_plugins do
-
+gem "github-pages"
+gem "jekyll-theme-time-machine" 
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -13,7 +13,7 @@ gem "github-pages", group: :jekyll_plugins do
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll" , "~> 3.9.1"
+gem "jekyll" , "~> 4.2.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # hide this theme ....gem "minima", "~> 2.5"
@@ -22,7 +22,7 @@ gem "github-pages", group: :jekyll_plugins do
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
+group :jekyll_plugins do
 gem "jekyll-feed", "~> 0.12"
 end
 
