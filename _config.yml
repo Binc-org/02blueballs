@@ -28,9 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 
 # Build settings
-# theme: minima
+theme: minima
 # theme: lone-wolf-theme
-theme: jekyll-theme-time-machine
+# theme: jekyll-theme-time-machine
 
 plugins:
   - jekyll-feed
