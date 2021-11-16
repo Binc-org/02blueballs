@@ -5,3 +5,8 @@
     pushed to GH, 
     turned on GH pages
     but it did not load as a website.
+
+
+today I changed the 
+gem "nokogiri", ">= 1.12.5"
+
